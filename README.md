@@ -11,10 +11,10 @@ On the birthday of a special friend, I felt like the generic happy birthday text
 I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
 You can create your very own happy-birthday page in a few easy steps:
 
-* Fork the repository
-* Open `customize.json` and replace the content with your own
-* Turn on GitHub pages for your repository (Settings > Pages)
-* Share the URL you get at the above step with your friend
+- Fork the repository
+- Open `customize.json` and replace the content with your own
+- Turn on GitHub pages for your repository (Settings > Pages)
+- Share the URL you get at the above step with your friend
 
 **You do not need to create Pull Request to this main repository to get it running.**
 
@@ -24,7 +24,6 @@ Please note that I've created this page in a hurry and it comes with no warranty
 
 Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
 
-
 ## Contributing
 
 I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
@@ -33,3 +32,10 @@ If you have any idea to improve it or make it more interesting, feel free to sen
 Happy wishing! 🎉
 
 ![](assets/2022-05-30-17-53-46.png)
+
+## 附加
+
+- 原始仓库: [happy-birthday](https://github.com/faahim/happy-birthday)
+- 目的
+
+  纪念
